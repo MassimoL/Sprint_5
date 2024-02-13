@@ -4,7 +4,7 @@ import { iStep } from '../istep';
 import { trigger, transition, style, animate } from '@angular/animations';
 import { AnimationStateService } from '../animation-state.service';
 
-@Component({
+@Component({ 
   selector: 'app-escena',
   templateUrl: './escena.component.html',
   styleUrls: ['./escena.component.css'],
