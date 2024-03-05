@@ -5,7 +5,7 @@ import { EscenaComponent } from './escena.component';
 describe('EscenaComponent', () => {
   let component: EscenaComponent;
   let fixture: ComponentFixture<EscenaComponent>;
-
+  
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [EscenaComponent]
