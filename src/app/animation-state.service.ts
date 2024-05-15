@@ -13,5 +13,3 @@ export class AnimationStateService {
     this.currentStepSubject.next(step);
   }
 }
-
-
