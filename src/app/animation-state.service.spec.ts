@@ -14,6 +14,3 @@ describe('AnimationStateService', () => {
     expect(service).toBeTruthy();
   });
 });
-
-
-
