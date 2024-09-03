@@ -5,6 +5,3 @@ export interface iStep {
     img: string;
     bgcolor: string;
   }  
-
-
-  
