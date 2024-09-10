@@ -46,6 +46,7 @@ export class EscenaComponent {
     return this.steps[this.currentStep];
   }
 
+
   getProgressBarPosition(): string {
     const progressBarStep = 15;
     return `${this.currentStep * progressBarStep}px`;
